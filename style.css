@@ -1,0 +1,10 @@
+p {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+  }
+  
+  html {
+    font-family: "Open Sans", sans-serif;
+    background-color: #C1272D;
+  }
